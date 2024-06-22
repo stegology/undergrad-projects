@@ -1,4 +1,4 @@
-package PolymorphismExample;
+package polymorphism_example;
 
 public class Dog extends Animal {
     private String color;

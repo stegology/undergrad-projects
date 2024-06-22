@@ -1,4 +1,4 @@
-package CastingExample;
+package casting_example;
 
 public class Dog extends Animal {
     

@@ -1,4 +1,4 @@
-package PolymorphismExample;
+package polymorphism_example;
 
 public class Cat extends Animal{
     private String litterPreference;

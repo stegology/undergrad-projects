@@ -1,4 +1,4 @@
-package GeometricClasses;
+package geometric_classes;
 
 // Rectangle1 is a subclass of GeometricObject1
 public class Rectangle1 extends GeometricObject1 {

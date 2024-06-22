@@ -1,4 +1,4 @@
-package GeometricClasses;
+package geometric_classes;
 
 public class TestCircleRectangle {
     public static void main(String[] args) {

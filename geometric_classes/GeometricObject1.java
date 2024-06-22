@@ -1,4 +1,4 @@
-package GeometricClasses;
+package geometric_classes;
 
 public class GeometricObject1 {
     // Private fields for color, filled status, and creation date

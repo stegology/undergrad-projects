@@ -1,4 +1,4 @@
-package WrapperExample;
+package wrapper_example;
 
 public class WrapperExample {
     public static void main(String[] args) {

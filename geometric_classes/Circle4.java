@@ -1,4 +1,4 @@
-package GeometricClasses;
+package geometric_classes;
 
 public class Circle4 extends GeometricObject1 {
     private double radius; // Radius of the circle

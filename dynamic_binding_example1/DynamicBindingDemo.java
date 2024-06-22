@@ -1,4 +1,4 @@
-package DynamicBindingExample1;
+package dynamic_binding_example1;
 
 public class DynamicBindingDemo {
 

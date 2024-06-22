@@ -1,4 +1,4 @@
-package PolymorphismExample;
+package polymorphism_example;
 
 public class Animal {
     private String name;

@@ -1,4 +1,5 @@
-package CastingExample;
+package casting_example;
+
 
 public class Animal {
     
